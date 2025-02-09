@@ -1,0 +1,2 @@
+# Node.js Unhandled Exception Handling
+This repository demonstrates a common error in Node.js applications: lack of proper error handling. The `server.js` file shows a server that crashes when encountering an unhandled exception.  The `server-solution.js` demonstrates how to properly handle exceptions using `try...catch` blocks or event listeners.
